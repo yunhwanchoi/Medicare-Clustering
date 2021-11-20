@@ -1,6 +1,6 @@
 # K-Means Clustering on Medicare Data
 
-The following README.md file includes the analysis without code. The full walk-through of the Python code and visualizations are available [here](https://nbviewer.org/github/yunhwanchoi/Medicare-Clustering/blob/main/Medicare%20Providers%20Clustering.ipynb).
+The following README.md file includes the analysis without code. The full walk-through of the analysis and the Python code are available [here](https://nbviewer.org/github/yunhwanchoi/Medicare-Clustering/blob/main/Medicare%20Providers%20Clustering.ipynb).
 
 # Table of Contents
 
