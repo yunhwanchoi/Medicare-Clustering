@@ -1,4 +1,4 @@
-# K-Means Clustering on Medicare Data
+# K-Means Clustering Lines of Services in the Emergency Department Provided by Medicare
 
 The following README.md file includes the analysis without code. The full walk-through of the analysis and the Python code are available [here](https://nbviewer.org/github/yunhwanchoi/Medicare-Clustering/blob/main/Medicare%20Providers%20Clustering.ipynb).
 
